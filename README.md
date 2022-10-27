@@ -1,4 +1,5 @@
-![Random User App](random-user-app.gif)
+![random-user-app](https://user-images.githubusercontent.com/108168084/198383966-53feff28-9ad0-4cd0-92d6-f047de0c37b4.gif)
+
 
 ## https://random-user-app-v2-five.vercel.app/
 
